@@ -13,6 +13,9 @@
   "unpublishedCustomJSLibs": [
     {
       "uidString": "AWS_https://sdk.amazonaws.com/js/aws-sdk-2.410.0.min.js"
+    },
+    {
+      "uidString": "jsonpath_https://cdn.jsdelivr.net/npm/jsonpath@1.1.1/jsonpath.min.js"
     }
   ],
   "publishedCustomJSLibs": [
