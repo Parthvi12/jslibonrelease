@@ -15,7 +15,11 @@
       "uidString": "AWS_https://sdk.amazonaws.com/js/aws-sdk-2.410.0.min.js"
     }
   ],
-  "publishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [
+    {
+      "uidString": "AWS_https://sdk.amazonaws.com/js/aws-sdk-2.410.0.min.js"
+    }
+  ],
   "evaluationVersion": 2,
   "applicationVersion": 2,
   "isManualUpdate": false,
