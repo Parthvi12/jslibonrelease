@@ -1,0 +1,23 @@
+{
+  "pages": [
+    {
+      "id": "Page1",
+      "isDefault": true
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#ECECEC",
+  "icon": "dollar",
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "AWS_https://sdk.amazonaws.com/js/aws-sdk-2.410.0.min.js"
+    }
+  ],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "isManualUpdate": false,
+  "deleted": false
+}
