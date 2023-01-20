@@ -39,6 +39,9 @@
     },
     {
       "uidString": "i18next_https://cdn.jsdelivr.net/npm/i18next@22.1.4/dist/umd/i18next.min.js"
+    },
+    {
+      "uidString": "amplitude_https://cdn.jsdelivr.net/npm/@amplitude/analytics-browser@1.6.1/lib/scripts/amplitude-min.umd.js"
     }
   ],
   "evaluationVersion": 2,
