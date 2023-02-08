@@ -28,6 +28,9 @@
     },
     {
       "uidString": "jsonpath_https://cdn.jsdelivr.net/npm/jsonpath@1.1.1/jsonpath.min.js"
+    },
+    {
+      "uidString": "Sentry_https://browser.sentry-cdn.com/7.17.3/bundle.min.js"
     }
   ],
   "publishedCustomJSLibs": [],
